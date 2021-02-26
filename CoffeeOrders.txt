@@ -1,0 +1,20 @@
+Draco Malfoy
+13
+Plain Coffee
+
+Ron Weasley
+28
+Latte
+
+Lord Voldemort
+34
+Plain Coffee
+
+Severus Snape
+15
+Macchiato
+
+Harry Potter
+57
+Frappuccino
+
